@@ -1,0 +1,1 @@
+<h2>Support page</h2>
